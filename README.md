@@ -77,7 +77,6 @@ This project is a simulation of a small-to-medium-sized enterprise network built
 ##  Project Files
 
 - `Enterprise_Network.pkt` – Main Packet Tracer topology file
-- `configs/` – Router and server CLI configuration exports
 - `topology.png` – Overview of network structure
 
 ---
