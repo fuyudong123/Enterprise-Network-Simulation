@@ -1,7 +1,7 @@
 # Enterprise Network Simulation Project (Cisco Packet Tracer)
 
 ###  Author: Fuyu Dong  
-###  Contact: d1513891560@gmail.com  
+###  Contact: fuyu.dong66@gmail.com  
 ###  Purpose: Showcase enterprise network features and hands-on networking skills
 
 ---
